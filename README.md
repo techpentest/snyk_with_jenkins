@@ -1,7 +1,6 @@
-# snyk_with_jenkins
+# snyk_with_jenkins - Snyk Installation
 
 ```bash
-Snyk Installation
 https://plugins.jenkins.io/snyk-security-scanner/
 ```
 
